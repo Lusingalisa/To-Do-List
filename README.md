@@ -1,2 +1,2 @@
-# To-Do-List
-creating an app for a to do list for easier organization using JS, HTML and CSS
+# Quiz App using tutorial from greatstack
+creating an app for quizzes as a JS beginner using JS, HTML and CSS
